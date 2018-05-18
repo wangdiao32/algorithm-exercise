@@ -3,4 +3,5 @@
     "dest":         "qiniu:access_key=AccessKey&secret_key=SecretKey&bucket=pub4bill&key_prefix=docs/algorithm-exercise/",
     "deletable":    0,
     "debug_level":  1
+    
 }
